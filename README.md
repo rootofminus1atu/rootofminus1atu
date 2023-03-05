@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### I wonder what I'll write here in the future...
+Some info\
+A bit more info\
+And yet something
+
+<br>
+
+#### For now here's a cool list of tools that I know:
+
+[![My Skills](https://skillicons.dev/icons?i=py,cs,flask,html,css,scss,c,discord,bots,bash,latex,mongodb,arduino)](https://skillicons.dev)
