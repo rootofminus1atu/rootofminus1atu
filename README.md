@@ -24,4 +24,4 @@ And yet something
 
 #### For now here's a cool list of tools that I know:
 
-[![My Skills](https://skillicons.dev/icons?i=py,cs,flask,html,css,c,discord,bots,latex,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cs,flask,html,css,c,discord,bots,latex,mongodb,raspberrypi)](https://skillicons.dev)
