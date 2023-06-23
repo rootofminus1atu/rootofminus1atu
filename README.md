@@ -14,14 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+This profile belongs to a certain human, an ATU Sligo student, someone who likes math, programming and especially category theory. Currently it's a bit empty.
 
-#### I wonder what I'll write here in the future...
-Some info\
-A bit more info\
-And yet something
+Pretend that there's an image here.
 
-<br>
+### A few of my projects:
+- website
+- discord bot
+- some C# thing
 
-#### For now here's a cool list of tools that I know:
+(I will update the thing above soon trust me)
 
-[![My Skills](https://skillicons.dev/icons?i=py,cs,flask,html,css,c,discord,bots,latex,mongodb,raspberrypi)](https://skillicons.dev)
+### My skills:
+
+[![My Skills](https://skillicons.dev/icons?i=py,cs,flask,html,css,js,react,c,discord,bots,latex,mongodb,raspberrypi)](https://skillicons.dev)
