@@ -22,6 +22,7 @@ Pretend that there's an image here.
 - website
 - discord bot
 - some C# thing
+- AutoSort
 
 (I will update the thing above soon trust me)
 
