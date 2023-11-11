@@ -28,4 +28,4 @@ Pretend that there's an image here.
 
 ### My skills:
 
-[![My Skills](https://skillicons.dev/icons?i=py,cs,flask,html,css,js,react,c,discord,bots,latex,mongodb,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,flask,html,css,js,ts,react,remix,tailwind,bootstrap,materialui,postman,prisma,vercel,c,cs,rust,discord,bots,latex,md,mongodb,sqlite,mysql,postgresql,supabase,raspberrypi)](https://skillicons.dev)
