@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-This profile belongs to a certain human, an ATU Sligo student, someone who likes math, programming and especially category theory. Currently it's a bit empty.
+This profile belongs to a certain human, an ATU Sligo student, someone who likes math, programming and especially category theory. Currently this profile is a bit empty.
 
 Pretend that there's an image here.
 
