@@ -1,6 +1,9 @@
-![welcome](./welcome-to-my-github-profile.gif)
+#
 
-## Hi there 👋
+<br>
+
+![welcome](./welcome-to-my-github-profile.gif)
+#
 
 This profile belongs to a certain human, an ATU Sligo student, someone who likes math, programming and especially category theory. Currently this profile is a bit empty.
 
