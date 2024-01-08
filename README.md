@@ -5,17 +5,7 @@
 ![welcome](./welcome-to-my-github-profile.gif)
 #
 
-This profile belongs to a certain human, an ATU Sligo student, someone who likes math, programming and especially category theory. Currently this profile is a bit empty.
-
-Pretend that there's an image here.
-
-### A few of my projects:
-- website
-- discord bot
-- some C# thing
-- AutoSort
-
-(I will update the thing above soon trust me)
+I will update this readme one day
 
 ### My skills:
 
