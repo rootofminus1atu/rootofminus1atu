@@ -27,5 +27,5 @@ Hi, I'm a software developer and university student with a strong affinity for p
 
 - [song-rankdown-generator](https://github.com/rootofminus1atu/Python-tings/tree/main/Song%20Rankdowns/Sheet%20generator) - spreadsheet generator for a "song rankdown" game
 - [Mai'q the Liar](https://github.com/rootofminus1atu/Python-tings/tree/main/Maiq%20bot) - an older python discord bot
-- [sql-rust-macros](https://github.com/rootofminus1atu/Rust-tings/blob/main/marco-proc-workspace/hello_macro_derive/src/table_impl.rs) sql-oriented rust macros, to be used in [the-bot-v6](https://github.com/rootofminus1atu/the-bot-v6) one day
+- [sql-rust-macros](https://github.com/rootofminus1atu/Rust-tings/blob/main/marco-proc-workspace/hello_macro_derive/src/table_impl.rs) - sql-oriented rust macros, to be used in [the-bot-v6](https://github.com/rootofminus1atu/the-bot-v6) one day
 
