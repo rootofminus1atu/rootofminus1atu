@@ -2,11 +2,11 @@
 
 Hi, I'm a software developer and university student with a strong affinity for programming and mathematics. Currently my favorite language is [Rust](https://www.rust-lang.org/) and my favorite theorem is [Stokes' generalized theorem](https://en.wikipedia.org/wiki/Generalized_Stokes_theorem).
 
-## My skills
+## My Skills
 
 [![my-skills](https://skillicons.dev/icons?i=rust,py,c,cs,dotnet,html,css,js,ts,nodejs,react,remix,angular,tailwind,bootstrap,materialui,express,fastapi,postman,prisma,mongodb,sqlite,postgresql,supabase,raspberrypi,aws,vercel,bash,latex,md)](https://skillicons.dev)
 
-## Projects
+## My Projects
 
 ### Noteworthy:
 
