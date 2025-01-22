@@ -10,6 +10,7 @@ Hi, I'm a software developer and university student with a strong affinity for p
 
 ### Noteworthy:
 
+- [tf2tts](https://github.com/rootofminus1atu/tf2tts) - a tts tool for tf2 gaming
 - [the-bot-v6](https://github.com/rootofminus1atu/the-bot-v6) - my rust discord bot
 - [timetables-v2](https://github.com/rootofminus1atu/timetables-v2) - college timetables enhancer web app
 - [unboxcat](https://github.com/rootofminus1atu/unboxcat) - a fun web app for cat enthusiasts
